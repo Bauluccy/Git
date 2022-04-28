@@ -1,0 +1,14 @@
+.body{
+    display: flex;    
+}
+
+.header{
+    text-align: center;
+    margin-top: 10%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    background-color: darkgray;
+}
+
+.option{
+    padding: 0.1em 0.1em 0.1em 0.1em;
+}
